@@ -24,4 +24,4 @@ CLI Utility created with C++. The program includes four tools:
 
 ## Note on file `CommandLineUtility`
 
-The file `CommandLineUtility` was created wid -std=c++17 on macOS 26.5.2 (25F84).
+The file `CommandLineUtility` was created with -std=c++17 on macOS 26.5.2 (25F84).

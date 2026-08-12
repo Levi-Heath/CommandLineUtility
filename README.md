@@ -11,8 +11,13 @@ CLI Utility created with C++. The program includes four tools:
 4. **File Word Frequency Counter**: Reads a text file and outputs the top N most frequent words.
 
 ## Execution Instructions
-- Clone repository
-- Windows: 
-    - 
-- Linux/Mac:
-    - 
+- Clone and download the repository.
+- Navigate to `CommandLineUtility` directory from your terminal.
+- **Windows:**
+    - Run the following command to create an execution file: 
+        `g++ -std=c++17 main.cpp primeFactorization.cpp baseConverter.cpp descriptiveStatistics.cpp wordFrequencyCounter.cpp -o CommandLineUtility.exe`
+    - Run execution file with: `CommandLineUtility.exe`
+- **Linux/Mac:**
+    - Run the following command to create an execution file: 
+        `clang++ -std=c++17 main.cpp primeFactorization.cpp baseConverter.cpp descriptiveStatistics.cpp wordFrequencyCounter.cpp -o CommandLineUtility`
+    - Run execution file with: `./CommandLineUtility`

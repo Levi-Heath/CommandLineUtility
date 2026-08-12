@@ -21,3 +21,7 @@ CLI Utility created with C++. The program includes four tools:
     - Run the following command to create an execution file: 
         `clang++ -std=c++17 main.cpp primeFactorization.cpp baseConverter.cpp descriptiveStatistics.cpp wordFrequencyCounter.cpp -o CommandLineUtility`
     - Run execution file with: `./CommandLineUtility`
+
+## Note on file `CommandLineUtility`
+
+The file `CommandLineUtility` was created wid -std=c++17 on macOS 26.5.2 (25F84).

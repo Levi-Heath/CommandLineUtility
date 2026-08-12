@@ -8,7 +8,7 @@ CLI Utility created with C++. The program includes four tools:
 
 3. **Descriptive Statistics Calculator**: Computes mean, median, mode, variance, and standard deviation from CLI-provided values.
 
-4. **File Word Frequency Counter**: Reads a text file and outputs the top N most frequent words.
+4. **File Word Frequency Counter**: Reads a text file and outputs the top N most frequent words. **[NOT IMPLEMENTED YET]**
 
 ## Execution Instructions
 - Clone and download the repository.
